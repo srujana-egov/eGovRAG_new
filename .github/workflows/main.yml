@@ -1,4 +1,3 @@
-- name: Create .env file
-  run: |
-    echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
-    echo "SLACK_BOT_TOKEN=${{ secrets.SLACK_BOT_TOKEN }}" >> .env
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
