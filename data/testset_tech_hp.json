@@ -1,0 +1,134 @@
+[
+{
+"query": "Who delivers Harry to the Dursleys’ doorstep and how is the street concealed from Muggles that night?",
+"ideal_answer": "Hagrid delivers baby Harry to Albus Dumbledore and Professor McGonagall on Privet Drive, and Dumbledore uses the Put‑Outer (Deluminator) to extinguish the street lamps so Muggles cannot see what is happening.",
+"gold_passages": [
+"Dumbledore slipped the Put-Outer back inside his cloak and set off down the street toward number four, where he sat down on the wall next to the cat. ... He flicked it open, held it up in the air, and clicked it. The nearest street lamp went out ... Twelve times he clicked the Put-Outer, until the only lights left on the whole street were two tiny pinpricks in the distance, which were the eyes of the cat watching him. ... “Hagrid’s bringing him.” ... “Hagrid,” said Dumbledore, sounding relieved. “At last.” ... Dumbledore took Harry in his arms and turned toward the Dursleys’ house. ... He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry’s blankets.” ",
+"“I would trust Hagrid with my life,” said Dumbledore. ... A huge motorcycle fell out of the air and landed on the road in front of them. ... “Young Sirius Black lent it to me. I’ve got him, sir.” "
+],
+"supporting_facts": [
+"Dumbledore uses the Put‑Outer (Deluminator) to extinguish the Privet Drive street lamps, concealing the scene from Muggles. ",
+"Hagrid arrives on Sirius Black’s motorcycle and hands baby Harry to Dumbledore, who leaves him with a letter on the Dursleys’ doorstep. "
+],
+"positives": []
+},
+{
+"query": "What strange events convince Mr. Dursley that something unusual is happening on the day the story begins?",
+"ideal_answer": "He sees a cat apparently reading a map and later a sign, notices people in cloaks celebrating in broad daylight, hears strangers mention “the Potters” and “Harry,” witnesses owls flying by day, and hears news of shooting stars across Britain.",
+"gold_passages": [
+"It was on the corner of the street that he noticed the first sign of something peculiar -- a cat reading a map. ... It was now reading the sign that said Privet Drive -- no, looking at the sign; cats couldn't read maps or signs. ",
+"As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in cloaks. ... 'Rejoice, for You-Know-Who has gone at last! Even Muggles like yourself should be celebrating, this happy, happy day!' ",
+"And finally, bird-watchers everywhere have reported that the nation's owls have been behaving very unusually today. ... there have been hundreds of sightings of these birds flying in every direction since sunrise. ... they've had a downpour of shooting stars! "
+],
+"supporting_facts": [
+"A tabby cat appears to read a map and later the Privet Drive sign, which unsettles Mr. Dursley. ",
+"He sees cloaked people celebrating, hears mention of the Potters and ‘You‑Know‑Who’, observes daytime owl activity, and the news reports shooting stars across Britain. "
+],
+"positives": []
+},
+{
+"query": "How does Harry first learn he is a wizard, and what proof is he given at the hut on the rock?",
+"ideal_answer": "Hagrid arrives at the hut on the rock on Harry’s eleventh birthday, tells him he’s a wizard, and hands him his Hogwarts acceptance letter; he also demonstrates magic (lighting a fire, producing sausage, sending an owl) and speaks about Voldemort and Harry’s parents.",
+"gold_passages": [
+"BOOM. ... A giant of a man was standing in the doorway. ... 'An' here's Harry!' ... 'Harry -- yer a wizard.' ",
+"He pulled a slightly squashed box. ... a large, sticky chocolate cake with Happy Birthday Harry written on it. ... Hagrid ... there was a roaring fire there. ... pulled an owl ... scribbled a note ... threw the owl out into the storm. ",
+"HOGWARTS SCHOOL of WITCHCRAFT and WIZARDRY ... 'We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry.' "
+],
+"supporting_facts": [
+"Hagrid bursts into the hut on the rock, tells Harry he’s a wizard, and gives him the Hogwarts letter. ",
+"Hagrid performs magic (lighting the fire, conjuring food, sending an owl) and explains about Voldemort and Harry’s parents. "
+],
+"positives": []
+},
+{
+"query": "What protections guard the Stone in Hogwarts and which teacher created each?",
+"ideal_answer": "Devil’s Snare (Professor Sprout), winged keys (Professor Flitwick), a life‑sized wizard chess set (Professor McGonagall), a troll (Professor Quirrell), logic potion flames (Professor Snape), and the Mirror of Erised enchantment (Dumbledore).",
+"gold_passages": [
+"“Well, I don' s'pose it could hurt ter tell yeh that... he borrowed Fluffy from me... then some o' the teachers did enchantments... Professor Sprout -- Professor Flitwick -- Professor McGonagall ... Professor Quirrell -- an' Dumbledore himself did somethin', o' course. ... Oh yeah, Professor Snape.” ",
+"They stepped into it, light suddenly flooded the room ... a huge chessboard ... “McGonagall transfigured the chessmen to make them alive” ... “Devil’s Snare” ... “winged keys—Flitwick” ... “a troll” ... “black and purple flames with potions logic” ... “the Mirror of Erised.” "
+],
+"supporting_facts": [
+"Hagrid lists the teachers who set protections: Sprout, Flitwick, McGonagall, Quirrell, Snape, and Dumbledore. ",
+"The specific obstacles encountered: Devil’s Snare (Sprout), winged keys (Flitwick), wizard chess (McGonagall), a troll (Quirrell), potions/logic flames (Snape), and the Mirror enchantment (Dumbledore). "
+],
+"positives": []
+},
+{
+"query": "Describe Harry’s role and outcome in his first Quidditch match against Slytherin, including Snape’s involvement.",
+"ideal_answer": "As Gryffindor’s Seeker, Harry’s broom is jinxed and bucks mid‑match while Snape mutters a counter‑curse to protect him; Hermione sets Snape’s robes on fire, breaking the jinx, and Harry recovers to catch (nearly swallow) the Snitch, winning the match in under five minutes.",
+"gold_passages": [
+"His broom gave a sudden, frightening lurch ... it was as though the broom was trying to buck him off. ... Hermione ... whispered a few, well‑chosen words. Bright blue flames shot from her wand onto the hem of Snape's robes. ... Up in the air, Harry was suddenly able to clamber back on to his broom. ... he hit the field ... coughed -- and something gold fell into his hand. 'I've got the Snitch!' ",
+"“Snape was trying to save me?” … “He was trying to make sure I didn't do it again. ... I couldn't do anything with Dumbledore watching. ... Snape ... muttering a countercurse, trying to save you.” "
+],
+"supporting_facts": [
+"Harry’s broom is jinxed during the match; Hermione sets Snape’s robes on fire, breaking the jinx, and Harry catches the Snitch. ",
+"It is later explained Snape was muttering a counter‑curse to protect Harry during the jinx. "
+],
+"positives": []
+},
+{
+"query": "What is revealed about Nicolas Flamel and the Sorcerer’s Stone, and why do Dumbledore and Flamel agree to destroy it?",
+"ideal_answer": "Flamel is a famed alchemist who created the Sorcerer’s Stone, which turns metal to gold and produces the Elixir of Life; Dumbledore and Flamel agree to destroy the Stone to prevent Voldemort from returning, accepting that Flamel and his wife will die after using their remaining Elixir to set affairs in order.",
+"gold_passages": [
+"Nicolas Flamel ... the only known maker of the Sorcerer's Stone ... The stone will transform any metal into pure gold. It also produces the Elixir of Life, which will make the drinker immortal. ",
+"“The Stone … has been destroyed.” … “Nicolas and I have had a little chat, and agreed it's all for the best.” … “They have enough Elixir stored to set their affairs in order and then, yes, they will die.” "
+],
+"supporting_facts": [
+"Flamel is the only known maker of the Stone, which produces gold and the Elixir of Life. ",
+"Dumbledore says the Stone was destroyed to prevent Voldemort’s return; Flamel will die after finishing his remaining Elixir. "
+],
+"positives": []
+},
+{
+"query": "How does the Mirror of Erised function in the climax, and why can Harry obtain the Stone from it while Quirrell cannot?",
+"ideal_answer": "Dumbledore’s enchantment makes the Mirror give the Stone only to someone who wants to find it but not use it; Harry’s reflection pockets the Stone and it appears in his pocket, while Quirrell/Voldemort cannot receive it because they desire to use it.",
+"gold_passages": [
+"“This mirror is the key to finding the Stone,” Quirrell murmured. … Harry saw … his reflection … put its hand into its pocket and pulled out a blood-red stone … and as it did so, Harry felt something heavy drop into his real pocket. ",
+"“Only one who wanted to find the Stone — find it, but not use it — would be able to get it, otherwise they'd just see themselves making gold or drinking Elixir of Life.” "
+],
+"supporting_facts": [
+"The mirror’s enchantment gives the Stone only to a seeker who does not intend to use it, which fits Harry. ",
+"Quirrell/Voldemort desires to use the Stone, so the mirror withholds it from him. "
+],
+"positives": []
+},
+{
+"query": "Explain why Quirrell cannot bear Harry’s touch during their confrontation.",
+"ideal_answer": "Because Lily’s sacrificial protection leaves a powerful, loving magic in Harry’s very skin that burns and blisters Quirrell—who is possessed by Voldemort and filled with hatred—making physical contact agony for him.",
+"gold_passages": [
+"Quirrell ... let go of his neck and stared, bewildered, at his own palms — Harry could see they looked burned, raw, red, and shiny. ",
+"“Your mother died to save you. ... to have been loved so deeply ... will give us some protection forever. It is in your very skin. Quirrell ... sharing his soul with Voldemort, could not touch you for this reason.” "
+],
+"supporting_facts": [
+"Harry’s touch burns Quirrell’s skin during their fight, blistering his hands. ",
+"Dumbledore explains Lily’s sacrificial love lives in Harry’s skin, and Voldemort‑tainted Quirrell cannot bear the contact. "
+],
+"positives": []
+},
+{
+"query": "How does Gryffindor win the House Cup despite Slytherin’s point lead at the feast?",
+"ideal_answer": "Dumbledore awards last‑minute points for bravery and logic: 50 to Ron (wizard chess), 50 to Hermione (cool logic), 60 to Harry (nerve and courage), and 10 to Neville (standing up to friends), overturning Slytherin’s lead and changing the decorations to Gryffindor colors.",
+"gold_passages": [
+"“First — to Mr. Ronald Weasley ... for the best‑played game of chess ... fifty points.” ... “to Miss Hermione Granger ... for the use of cool logic ... fifty points.” ... “to Mr. Harry Potter ... for pure nerve and outstanding courage, sixty points.” ... “I therefore award ten points to Mr. Neville Longbottom.” ",
+"“Which means ... we need a little change of decoration.” ... the green hangings became scarlet and the silver became gold; the huge Slytherin serpent vanished and a towering Gryffindor lion took its place. "
+],
+"supporting_facts": [
+"Dumbledore’s last‑minute awards total 170 points to Gryffindor, surpassing Slytherin. ",
+"The hall’s decorations shift from Slytherin green/silver to Gryffindor scarlet/gold as Gryffindor wins. "
+],
+"positives": []
+},
+{
+"query": "What key details about Hagrid’s acquisition of Norbert are later understood as part of Voldemort’s plan?",
+"ideal_answer": "A hooded stranger in the Hog’s Head wins cards with Hagrid, swaps a Norwegian Ridgeback egg, and slyly asks how to get past Fluffy; Hagrid reveals music puts the dog to sleep—information Quirrell/Voldemort exploits to reach the Stone.",
+"gold_passages": [
+"“He wouldn' take his cloak off. ... Mighta bin a dragon dealer ... said he had the dragon egg ... but he had ter be sure I could handle it ... So I told him, after Fluffy, a dragon would be easy ... I told him ... Fluffy's a piece o' cake if yeh know how to calm him down, jus' play him a bit o' music an' he'll go straight off ter sleep” ",
+"“Don't you think it's a bit odd ... a stranger turns up who just happens to have an egg in his pocket? ... Why didn't I see it before?” "
+],
+"supporting_facts": [
+"A cloaked stranger in the Hog’s Head wins Hagrid’s trust with a dragon egg and extracts how to bypass Fluffy (music). ",
+"This detail reveals Quirrell/Voldemort manipulated Hagrid to get the final piece of information needed to reach the Stone. "
+],
+"positives": []
+}
+]
